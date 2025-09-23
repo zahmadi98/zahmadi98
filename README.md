@@ -1,16 +1,27 @@
-## Hi there 👋
+سلام ✋  
+من یک توسعه‌دهنده علاقه‌مند به یادگیری و ساخت پروژه‌های متنوع هستم.  
+اینجا می‌تونی نمونه‌کارهای من رو پیدا کنی:
 
-<!--
-**zahmadi98/zahmadi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+✨ پروژه‌های بازی  
+🎮 Hill Climb Racing – ساخته شده با HTML/JS  
+🎳 Bowling Game – نوشته شده با C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 پروژه‌های کاربردی  
+🎶 Music Player – نوشته شده با Java  
+
+🧑‍💻 تمرین‌ها
+📝 To-do List – ساخته شده با HTML و JS  
+⚛️ Start React – تمرین‌های اولیه با React
+
+---
+
+🔧 مهارت‌ها  
+HTML, CSS, JavaScript, React, C#, Java  
+
+---
+
+📫 راه‌های ارتباطی  
+ایمیل: mis.zeinab.ahamadi@gmail.com  
+لینکدین:/linkedin.com/in/zeinab-ahmadi-27a66b296  

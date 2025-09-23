@@ -32,5 +32,5 @@ Java
 ---
 
 📫 راه‌های ارتباطی  
-ایمیل: mis.zeinab.ahamadi@gmail.com  
+ایمیل: ms.zeinab.ahamadi@gmail.com  
 لینکدین: [linkedin.com/in/zeinab-ahmadi-27a66b296](https://linkedin.com/in/zeinab-ahmadi-27a66b296)  

@@ -8,20 +8,29 @@
 🎮 Hill Climb Racing – ساخته شده با HTML/JS  
 🎳 Bowling Game – نوشته شده با C#
 
+---
+
 🎵 پروژه‌های کاربردی  
 🎶 Music Player – نوشته شده با Java  
 
-🧑‍💻 تمرین‌ها
+---
+
+🧑‍💻 تمرین‌ها  
 📝 To-do List – ساخته شده با HTML و JS  
 ⚛️ Start React – تمرین‌های اولیه با React
 
 ---
 
 🔧 مهارت‌ها  
-HTML, CSS, JavaScript, React, C#, Java  
+HTML  
+CSS  
+JavaScript  
+React  
+C#  
+Java  
 
 ---
 
 📫 راه‌های ارتباطی  
 ایمیل: mis.zeinab.ahamadi@gmail.com  
-لینکدین: /linkedin.com/in/zeinab-ahmadi-27a66b296  
+لینکدین: [linkedin.com/in/zeinab-ahmadi-27a66b296](https://linkedin.com/in/zeinab-ahmadi-27a66b296)  

@@ -24,4 +24,4 @@ HTML, CSS, JavaScript, React, C#, Java
 
 📫 راه‌های ارتباطی  
 ایمیل: mis.zeinab.ahamadi@gmail.com  
-لینکدین:/linkedin.com/in/zeinab-ahmadi-27a66b296  
+لینکدین: /linkedin.com/in/zeinab-ahmadi-27a66b296  

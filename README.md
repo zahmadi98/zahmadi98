@@ -12,7 +12,6 @@
 🎶 Music Player – نوشته شده با Java  
 
 🧑‍💻 تمرین‌ها
-
 📝 To-do List – ساخته شده با HTML و JS  
 ⚛️ Start React – تمرین‌های اولیه با React
 

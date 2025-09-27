@@ -5,7 +5,7 @@
 ---
 
 ✨ پروژه‌های بازی  
-🎮 Hill Climb Racing – ساخته شده با HTML/JS  
+🎮 Hill Climb Racing – ساخته شده با unity 
 🎳 Bowling Game – نوشته شده با C#
 
 ---

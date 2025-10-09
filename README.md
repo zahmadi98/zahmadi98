@@ -24,6 +24,5 @@ Passionate about clean interfaces and practical solutions — currently focused 
 <p>
   <img src="https://img.shields.io/badge/React%20Developer-40%25-blue?style=for-the-badge&logo=react&logoColor=white" alt="React 40%" />
   &nbsp;&nbsp;
-  <code>[▓▓▓▓░░░░░░] 40%</code>
   &nbsp;🔄 Loading...
 </p>
